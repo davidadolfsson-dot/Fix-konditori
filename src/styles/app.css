@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cream: #FFF8F0;
+  --color-cream-dark: #F5EDE0;
+  --color-coffee: #4A2C2A;
+  --color-coffee-light: #6B3F3C;
+  --color-amber-warm: #C17F59;
+  --color-amber-light: #D4956E;
+  --color-caramel: #D4A574;
+  --color-milk: #FAF0E6;
+  --color-toast: #E8D5B7;
+}
+
+@layer base {
+  html,
+  body {
+    @apply bg-cream text-coffee antialiased;
+    scroll-behavior: smooth;
+  }
+}
