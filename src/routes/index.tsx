@@ -165,7 +165,7 @@ function Home() {
           <div className="overflow-hidden rounded-2xl border border-toast bg-white shadow-sm transition hover:shadow-md">
             <div className="h-48 bg-toast/50 sm:h-56">
               <img
-                src="https://images.unsplash.com/photo-1567586989678-47b56ee05772?w=600&h=400&fit=crop&q=80"
+                src="https://images.unsplash.com/photo-1604909052743-94e838986d24?w=600&h=400&fit=crop&q=80"
                 alt="Räksmörgås"
                 className="h-full w-full object-cover"
               />
