@@ -165,7 +165,7 @@ function Home() {
           <div className="overflow-hidden rounded-2xl border border-toast bg-white shadow-sm transition hover:shadow-md">
             <div className="h-48 bg-toast/50 sm:h-56">
               <img
-                src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Stor_r%C3%A4ksm%C3%B6rg%C3%A5s_p%C3%A5_M%C3%B6ssebergsg%C3%A5rden_2591.jpg"
+                src="/raksmorgas.jpg"
                 alt="Räksmörgås"
                 className="h-full w-full object-cover"
               />
